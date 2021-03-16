@@ -4,7 +4,7 @@
   margin: 0;
 }
 body{
-  background-image: url("/root/Desktop/webpage/color.jpeg");
+  background-image: url("color.jpeg");
   background-repeat: no-repeat;
   background-size: 4500px 4000px;
   background-attachment: fixed;
